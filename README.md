@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Srushti Bihade 👋
 
-<!--
-**srushti-bihade/srushti-bihade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Computer Science & Engineering Student  
+💻 Web & App Development | Cybersecurity | Technology & Entrepreneurship
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science & Engineering student interested in building practical software projects and exploring how technology can solve real-world problems.
+
+### 🛠️ Currently Learning
+
+- C & C++
+- Python
+- JavaScript
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Web Development
+- Generative AI
+- Cybersecurity Fundamentals
+
+### 🚀 Projects
+
+- **TransformAI** — GenAI platform for automated content transformation
+- **Crop AI** — Smart agriculture and irrigation project
+- **AI Agent Workshop** — Exploring AI agents and automation
+
+### 🎯 Career Interests
+
+I'm interested in internship opportunities related to:
+
+**Web & App Development | Cybersecurity | Technology & Entrepreneurship**
+
+### 📚 Academic Focus
+
+Currently studying and building my foundation in:
+
+**DSA | OOP | Computer Science Fundamentals | Software Development**
+
+## 🔗 Connect
+
+[GitHub](https://github.com/srushti-bihade)
