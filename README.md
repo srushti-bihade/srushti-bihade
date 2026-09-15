@@ -99,7 +99,7 @@ To continuously improve my technical skills, build meaningful projects, gain ind
 ## 📫 Connect With Me
 
 - GitHub: [@srushti-bihade](https://github.com/srushti-bihade)
-
+- LinkedIn: [Srushti Bihade](https://www.linkedin.com/in/srushti-bihade-171a09377/)
 ---
 
 ⭐ Thanks for visiting my profile!
