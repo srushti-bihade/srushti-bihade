@@ -64,10 +64,6 @@ A technology-based agriculture project focused on smarter irrigation management 
 
 ---
 
-### 🧠 AI Agent Workshop
-Exploring AI agents, automation concepts, and practical applications of artificial intelligence.
-
-**Focus:** AI Agents • Automation • Problem Solving
 
 ## 🏆 Activities
 
